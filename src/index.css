@@ -1,0 +1,8 @@
+/* Hide scroll bar fix */
+* {
+  -ms-overflow-style: none;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
