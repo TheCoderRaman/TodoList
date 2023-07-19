@@ -1,0 +1,21 @@
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+# Editors
+.vscode
+*.sublime*
+
+psd
+thumb
+sketch
+
+
+node_modules/
+build/
