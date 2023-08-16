@@ -6,7 +6,6 @@
   "private": true,
   "dependencies": {
     "@nextui-org/react": "^1.0.0-beta.13",
-    "axios": "^1.4.0",
     "base-64": "^1.0.0",
     "bcryptjs": "^2.4.3",
     "crypto-browserify": "^3.12.0",
